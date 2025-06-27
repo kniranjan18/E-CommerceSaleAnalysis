@@ -27,7 +27,7 @@ The goal of this project is to analyze e-commerce transaction data to extract va
 - Build a **dashboard** using Streamlit or Power BI
 - Add **real-time tracking** of customer engagement
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repo:
    git clone https://github.com/kniranjan18/E-ommerceSalesAnalysis.git
